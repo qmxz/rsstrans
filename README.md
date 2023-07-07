@@ -11,7 +11,12 @@
 
 ## 已转换翻译源
 
- - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
- - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
- - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
- - source004 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_Top_Stories_rss.xml](rss/BBC_Top_Stories_rss.xml)
+ - source001 [https://www.nature.com/ncomms.rss](https://www.nature.com/ncomms.rss) -> [nc_rss.xml](rss/nc_rss.xml)
+ - source002 [https://www.nature.com/nphoton.rss](https://www.nature.com/nphoton.rss) -> [np_rss.xml](rss/np_rss.xml)
+ - source003 [https://www.nature.com/natelectron.rss](https://www.nature.com/natelectron.rss) -> [ne_zh_rss.xml](rss/ne_zh_rss.xml)
+ - source004 [https://opg.optica.org/rss/ol_feed.xml](https://opg.optica.org/rss/ol_feed.xml) -> [ol_zh_rss.xml](rss/ol_zh_rss.xml)
+ - source005 [https://opg.optica.org/rss/opex_feed.xml](https://opg.optica.org/rss/opex_feed.xml) -> [oe_zh_rss.xml](rss/oe_zh_rss.xml)
+ - source006 [https://ieeexplore.ieee.org/rss/TOC68.XML](https://ieeexplore.ieee.org/rss/TOC68.XML) -> [ptl_zh_rss.xml](rss/ptl_zh_rss.xml)
+ - source007 [https://rss.sciencedirect.com/publication/science/00303992](https://rss.sciencedirect.com/publication/science/00303992) -> [olt_zh_rss.xml](rss/olt_zh_rss.xml)
+ - source008 [https://opg.optica.org/rss/prj_feed.xml](https://opg.optica.org/rss/prj_feed.xml) -> [pr_zh_rss.xml](rss/pr_zh_rss.xml)
+ - source009 [https://ieeexplore.ieee.org/rss/TOC50.XML](https://ieeexplore.ieee.org/rss/TOC50.XML) -> [jlt_zh_rss.xml](rss/jlt_zh_rss.xml)
